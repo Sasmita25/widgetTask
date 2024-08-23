@@ -2,14 +2,36 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Features
 
-In the project directory, you can run:
+- Displays data in a Doughnut chart.
+- Customizable chart options including legend handling.
+- Responsive design.
 
-### `npm start`
+## Getting Started
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Prerequisites
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- [Node.js](https://nodejs.org/) (version 14 or higher)
+- [npm](https://www.npmjs.com/) (comes with Node.js) 
+
+### Installation
+
+1. **Clone the repository:**
+
+   ```sh
+   git clone git@github.com:Sasmita25/widgetTask.git
+2. **Install the dependencies:**
+
+   ```sh
+   npm install
+### Running the Application
+
+1. Run the Application
+   
+   ```sh
+   npm start
+
+This will open the application in your default web browser at http://localhost:3000.
+
+
